@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEdqG9XALnyB41xyr4gusbLIBoc3Cz0baAQYMV0VKsIjq9+2pwJ5s/60+wjYmtHnlFGGyhmRK9Mlzf3I62qXxQ==",
+  "dgSpecHash": "AZzmYCRaftJtaL3mED/0an8K6pvcD/6/I0dmvfrxfthTgWYcCwDvR/eUtSd2dWjJMQPH2dwHakJiZFUhUy2exA==",
   "success": true,
-  "projectFilePath": "/Users/lika/Projects/TodoAPP/TodoAPP/TodoAPP.csproj",
+  "projectFilePath": "/Users/lika/Projects/TodoAppASP.NET/TodoAPP/TodoAPP.csproj",
   "expectedPackageFiles": [
     "/Users/lika/.nuget/packages/dapper/2.1.28/dapper.2.1.28.nupkg.sha512",
     "/Users/lika/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
